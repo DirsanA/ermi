@@ -1,7 +1,7 @@
 import React from "react";
 
 function Navbar() {
-  return <div>other things to make git error </div>;
+  return <div> this is footer page changed by Dirsan A</div>;
 }
 
 export default Navbar;
